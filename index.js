@@ -1,0 +1,1 @@
+console.log('SkyMan CLI is coming soon..');
